@@ -1,2 +1,1 @@
-# mongodb_for_salesbot_dashboard
-Code for mongodb connection from python.
+# Code for the C-language done in BCA 2nd Sem.
